@@ -10,12 +10,16 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<h2>Diplomas</h2>
+<h2>Education</h2>
 
+  - <b>Cumulative Bachelor's Degree in Cybersecurity at Polytechnique Montréal</b>
+   -
+   -
+   - ? 
+  
+  -College Diploma in Human Sciences at Collège Lionel Groulx
+  
   -
-   -
-   -
-   - 
 
 <h2>Cybersecurity Projects</h2>
 
