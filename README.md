@@ -1,6 +1,6 @@
-<h1>Bonjour, je m'appelle Guillaume! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
+<h1>Bonjour, je m'appelle Guillaume! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -13,11 +13,11 @@
 <h2>Education</h2>
 
   - <b>Cumulative Bachelor's Degree in Cybersecurity at Polytechnique Montréal</b>
-   -
+   - 
    -
    - ? 
   
-  -College Diploma in Human Sciences at Collège Lionel Groulx
+  - <b>College Diploma in Human Sciences at Collège Lionel Groulx</b>
   
   -
 
