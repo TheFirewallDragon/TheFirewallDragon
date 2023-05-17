@@ -10,12 +10,12 @@
 
 <h2>Education</h2>
 
- - <b>Cumulative Bachelor's Degree in Cybersecurity at Polytechnique Montréal</b>
-   - 
-   - 
+ - <b>Cumulative Bachelor's Degree of Cybersecurity at Polytechnique Montréal (Current)</b>
+   - Certificate | Cyber Fraud (Current)
+   - Certificate | Analysis and Operational Cybersecurity (Current)
    - ? 
- - <b>College Diploma in Human Sciences at Collège Lionel Groulx</b>  
- - <b>High School at Externat Sacré-Coeur</b>
+ - <b>College Diploma in Human Sciences and Math at Collège Lionel Groulx</b>  
+ - <b>High School Diploma at Externat Sacré-Coeur</b>
 
 <h2>Cybersecurity Projects</h2>
 
