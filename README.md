@@ -27,10 +27,11 @@
 
   -
 
-<h2>LeetCode:</h2>
+<h2>Code and Programming:</h2>
 
   -
-
+  -[LeetCode Account](https://leetcode.com/guillaumethecoder/)
+  
 <h2>Other Interests:</h2>
 
 - <b>Linguistics 🇫🇷 🇬🇧 🇯🇵</b>
