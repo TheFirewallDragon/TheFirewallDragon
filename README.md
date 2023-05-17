@@ -14,7 +14,6 @@
    - 
    - 
    - ? 
-  
  - <b>College Diploma in Human Sciences at Collège Lionel Groulx</b>  
  - <b>High School at Externat Sacré-Coeur</b>
 
