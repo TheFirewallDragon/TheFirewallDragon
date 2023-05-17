@@ -27,10 +27,11 @@
 
   -
 
-<h2>Code and Programming:</h2>
+<h2>Programming:</h2>
 
-  -
-  -[LeetCode Account](https://leetcode.com/guillaumethecoder/)
+  - HTML, CSS, Javascript, Java, C++, Python
+  - <b>Code Practice:</b>
+    -[LeetCode Account](https://leetcode.com/guillaumethecoder/)
   
 <h2>Other Interests:</h2>
 
