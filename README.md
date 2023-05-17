@@ -33,7 +33,7 @@
 
 <h2>Other Interests:</h2>
 
-- <b>Linguistics</b>
+- <b>Linguistics 🇫🇷 🇬🇧 🇯🇵</b>
   - Complete fluency in spoken and written French, English and Japanese
   - [Duolingo Account](https://www.duolingo.com/profile/guillaume-san)
 - <b>Gaming</b>
