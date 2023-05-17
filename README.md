@@ -29,7 +29,7 @@
 
 <h2>Programming:</h2>
 
-  - HTML, CSS, Javascript, Java, C++, Python
+  - HTML, CSS, JavaScript, PHP, SQL, Java, C++, Python, Go, Rust, Elixir
   - <b>Code Practice:</b>
     -[LeetCode Account](https://leetcode.com/guillaumethecoder/)
   
