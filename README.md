@@ -12,7 +12,7 @@
 
  - <b>Cumulative Bachelor's Degree in Cybersecurity at Polytechnique Montréal</b>
    - 
-   -
+   - 
    - ? 
   
  - <b>College Diploma in Human Sciences at Collège Lionel Groulx</b>  
