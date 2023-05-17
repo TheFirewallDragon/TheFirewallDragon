@@ -27,11 +27,11 @@
 
   -
 
-<h2>Programming:</h2>
+<h2>Code:</h2>
 
-  - <b> HTML, CSS, JavaScript, PHP, SQL, Java, C#, C++, Python, Go, Rust, Elixir</b>
-  - <b>Code Practice:</b>
-    -[LeetCode Account](https://leetcode.com/guillaumethecoder/)
+ - <b>HTML, CSS, JavaScript, PHP, SQL, Java, C#, C++, Python, Go, Rust, Elixir</b>
+ - <b>Practice:</b>
+   - [LeetCode Account](https://leetcode.com/guillaumethecoder/)
   
 <h2>Other Interests:</h2>
 
