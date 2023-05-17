@@ -39,6 +39,6 @@
   - Complete fluency in spoken and written French, English and Japanese
   - [Duolingo Account](https://www.duolingo.com/profile/guillaume-san)
 - <b>Gaming</b>
-  - ["KanpekiShugi" on Xbox](https://account.xbox.com/en-ca/Profile?xr=mebarnav&rtc=1) [100k+ Gamerscore]
+  - ["KanpekiShugi" on Xbox](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
   - ["KanpekiShugi" on Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
   - "KanpekiShugi" on PlayStation [1100+ Platinum Trophies]
