@@ -1,8 +1,8 @@
 <h1>Bonjour Hello 今日は, je m'appelle Guillaume! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
 
-[<img alt="Guillaume Carrier Couture | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Guillaume Carrier Couture | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Guillaume Carrier Couture | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Guillaume Carrier Couture | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Guillaume Carrier Couture | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://ca.linkedin.com/in/guillaume-carrier-couture-b0b588252
 [instagram]: https://www.instagram.com/guillaume__2c/
