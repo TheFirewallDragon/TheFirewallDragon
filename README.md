@@ -1,14 +1,12 @@
 <h1>Bonjour Hello 今日は, je m'appelle Guillaume! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
 
-[<img alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="Guillaume Carrier Couture | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Guillaume Carrier Couture | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Guillaume Carrier Couture | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://ca.linkedin.com/in/guillaume-carrier-couture-b0b588252
+[instagram]: https://www.instagram.com/guillaume__2c/
+[twitter]: https://twitter.com/GiyoomuSan
 
 <h2>Education</h2>
 
