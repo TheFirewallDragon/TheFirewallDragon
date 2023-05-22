@@ -10,7 +10,7 @@
 
 <h2>Education</h2>
 
- - <b>Cumulative Bachelor's Degree of Cybersecurity at Polytechnique Montréal (Current)</b>
+ - <a href="https://www.polymtl.ca/futur/certificat/programmes/cumul-cybersecurite">Cumulative Bachelor's Degree of Cybersecurity at Polytechnique Montréal (Current)</a>
    - Certificate | Cyber Fraud (Current)
    - Certificate | Analysis and Operational Cybersecurity (Current)
    - ? 
