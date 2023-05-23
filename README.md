@@ -21,7 +21,7 @@
 
   -
 
-<h2>Software Development Projects</h2>
+<h2>Programming Projects</h2>
 
   -
 
