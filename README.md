@@ -41,8 +41,8 @@
   
 <h2>Other Interests:</h2>
 
-- <b>Linguistics 🇫🇷 🇬🇧 🇯🇵</b>
-  - Complete fluency in spoken and written French, English and Japanese
+- <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵</b>
+  - Complete fluency in spoken and written French, English, Spanish, German and Japanese
   - [Duolingo Account](https://www.duolingo.com/profile/guillaume-san)
 - <b>Gaming</b>
   - ["KanpekiShugi" on Xbox](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
