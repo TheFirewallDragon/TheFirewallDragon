@@ -44,7 +44,7 @@
 - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵</b>
   - Complete fluency in spoken and written French, English, Spanish, German and Japanese
   - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san)
-- <b>Martial Arts🇵</b>
+- <b>Martial Arts</b>
   - Black Belt in Shōrin-Ryū (少林流) Karate
 - <b>Gaming</b>
   - ["KanpekiShugi" on Xbox](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
