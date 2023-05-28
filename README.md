@@ -43,7 +43,7 @@
 
 - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵</b>
   - Complete fluency in spoken and written French, English, Spanish, German and Japanese
-  - [Duolingo Account](https://www.duolingo.com/profile/guillaume-san)
+  - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san)
 - <b>Gaming</b>
   - ["KanpekiShugi" on Xbox](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
   - ["KanpekiShugi" on Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
