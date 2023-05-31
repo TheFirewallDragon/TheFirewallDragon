@@ -43,7 +43,7 @@
 
 - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵</b>
   - Complete fluency in spoken and written French, English and Spanish
-  - I am currently studying German and Japanese
+  - I understand basic German and Japanese
   - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san)
 - <b>Martial Arts</b>
   - Black Belt in Shōrin-Ryū (少林流) Karate
