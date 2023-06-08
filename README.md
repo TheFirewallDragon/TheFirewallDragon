@@ -42,7 +42,7 @@
 <h2>Other Interests:</h2>
 
 - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵</b>
-  - Complete fluency in spoken and written French, English, Spanish, German and Japanese
+  - French, English, Spanish, German and Japanese
   - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san)
 - <b>Martial Arts</b>
   - Black Belt in Shōrin-Ryū (少林流) Karate
