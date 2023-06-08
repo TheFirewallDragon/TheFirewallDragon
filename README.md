@@ -37,8 +37,6 @@
 
  - <b>Code:</b>
    - ["guillaumethecoder" on LeetCode](https://leetcode.com/guillaumethecoder/)
- - <b>Cybersecurity:</b>
-   - 
   
 <h2>Other Interests:</h2>
 
