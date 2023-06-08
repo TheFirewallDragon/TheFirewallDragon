@@ -33,11 +33,12 @@
 
   -
 
-<h2>Code:</h2>
+<h2>Practice:</h2>
 
- - <b>HTML, CSS, JavaScript, PHP, SQL, Java, C#, C++, Python, Go, Rust, Elixir</b>
- - <b>Practice:</b>
-   - [LeetCode Account](https://leetcode.com/guillaumethecoder/)
+ - <b>Code:</b>
+   - ["guillaumethecoder" on LeetCode](https://leetcode.com/guillaumethecoder/)
+ - <b>Cybersecurity:</b>
+   - 
   
 <h2>Other Interests:</h2>
 
