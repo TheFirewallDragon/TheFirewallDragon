@@ -37,6 +37,9 @@
 
  - <b>Code:</b>
    - ["guillaumethecoder" on LeetCode](https://leetcode.com/guillaumethecoder/)
+ - <b>Cybersecurity:</b>
+   - HackTheBox
+   - TryHackMe
   
 <h2>Other Interests:</h2>
 
