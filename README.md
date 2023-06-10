@@ -36,7 +36,7 @@
 <h2>Practice:</h2>
 
  - <b>Code:</b>
-   - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [Beats 90%+]
+   - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
  - <b>Cybersecurity:</b>
    - HackTheBox
    - TryHackMe
