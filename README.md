@@ -40,7 +40,7 @@
    - "ExcodeTalker" HackTheBox
    - "DecodeTalker" on HTB Accademy
  - <b>Code:</b>
-   - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
+   - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [500+ Solved]
   
 <h2>Other Interests:</h2>
 
