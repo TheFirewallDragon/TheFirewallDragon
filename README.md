@@ -37,7 +37,7 @@
 
  - <b>Cybersecurity:</b>
    - "AccesscodeTalker" on TryHackMe
-   - HackTheBox
+   - "ExcodeTalker" HackTheBox
    - "DecodeTalker" on HTB Accademy
  - <b>Code:</b>
    - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
