@@ -39,7 +39,7 @@
 <h2>Practice:</h2>
 
  - <b>Cybersecurity:</b>
-   - "ExcodeTalker" HackTheBox
+   - "ExcodeTalker" on HackTheBox
    - "AccesscodeTalker" on TryHackMe
  - <b>Code:</b>
    - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
