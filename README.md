@@ -24,6 +24,7 @@
 <h2>Training</h2>
 
   - HTB Academy
+  - udemy Courses
 
 <h2>Cybersecurity Projects</h2>
 
