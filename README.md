@@ -23,8 +23,10 @@
  
 <h2>Training</h2>
 
-  - HTB Academy
-  - udemy Courses
+  - AlgoExpert
+  - HTB Academy 
+  - udemy
+  - Web Security Academy
 
 <h2>Cybersecurity Projects</h2>
 
