@@ -25,7 +25,7 @@
 
   - AlgoExpert
   - HTB Academy 
-  - udemy
+  - udemy courses
   - Web Security Academy
 
 <h2>Cybersecurity Projects</h2>
