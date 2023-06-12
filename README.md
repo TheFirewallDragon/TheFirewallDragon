@@ -23,7 +23,7 @@
  
 <h2>Training</h2>
 
-  -
+  - HTB Academy
 
 <h2>Cybersecurity Projects</h2>
 
@@ -37,7 +37,6 @@
 
  - <b>Cybersecurity:</b>
    - "ExcodeTalker" HackTheBox
-   - "DecodeTalker" on HTB Accademy
    - "AccesscodeTalker" on TryHackMe
  - <b>Code:</b>
    - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
