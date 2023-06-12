@@ -36,9 +36,9 @@
 <h2>Practice:</h2>
 
  - <b>Cybersecurity:</b>
-   - "AccesscodeTalker" on TryHackMe
    - "ExcodeTalker" HackTheBox
    - "DecodeTalker" on HTB Accademy
+   - "AccesscodeTalker" on TryHackMe
  - <b>Code:</b>
    - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
   
