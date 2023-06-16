@@ -23,8 +23,6 @@
  
 <h2>Training</h2>
 
-  - <a>AlgoExpert</a>
-  - <a>HTB Academy</a> 
   - <a>TCM Security Academy</a>
   - <a>udemy courses</a>
   - <a>Web Security Academy</a>
