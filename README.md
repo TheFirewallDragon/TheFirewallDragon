@@ -33,7 +33,7 @@
 
 <h2>Programming Projects</h2>
 
-  - My engine project
+  - 
 
 <h2>Practice:</h2>
 
