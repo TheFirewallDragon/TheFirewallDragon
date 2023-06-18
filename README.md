@@ -23,8 +23,8 @@
  
 <h2>Training</h2>
 
-  - <a>HackTheBox Academy</a>
   - <a>TCM Security Academy</a>
+  - <a>udemy courses</a>
   - <a>Web Security Academy</a>
 
 <h2>Cybersecurity Projects</h2>
