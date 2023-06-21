@@ -47,7 +47,7 @@
 <h2>Other Interests:</h2>
 
 - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇭</b>
-  - Complete fluency in spoken and written French, English, Spanish, Japanese and Indian
+  - Complete fluency in spoken and written French, English, Spanish and Japanese
   - Basic knowledge of German, Italian, Tagalog and Polish
   - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san) [150k+ XP]
 - <b>Martial Arts</b>
