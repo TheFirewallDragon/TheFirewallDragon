@@ -48,7 +48,7 @@
 
 - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇭</b>
   - Complete fluency in spoken and written French, English, Spanish and Japanese
-  - Basic knowledge of German, Italian, Tagalog and Polish
+  - Basic knowledge of German, Italian, Tagalog, Polish and Hindi
   - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san) [200k+ XP]
 - <b>Martial Arts</b>
   - Black Belt in Shōrin-Ryū (少林流) Karate
