@@ -39,7 +39,7 @@
 
  - <b>Cybersecurity:</b>
    - "ExcodeTalker" on HackTheBox
-   - "AccesscodeTalker" on TryHackMe
+   - ["AccesscodeTalker" on TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [100+ Solved]
  - <b>Code:</b>
    - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
   
