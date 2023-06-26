@@ -47,6 +47,6 @@
  - <b>Martial Arts</b>
    - Black Belt in Shōrin-Ryū (少林流) Karate
  - <b>Gaming</b>
-   - ["KanpekiShugi" on Xbox](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
-   - ["KanpekiShugi" on Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
    - "KanpekiShugi" on PlayStation [1100+ Platinum Trophies]
+   - ["KanpekiShugi" on Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
+   - ["KanpekiShugi" on Xbox](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
