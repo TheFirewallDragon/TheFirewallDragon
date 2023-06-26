@@ -23,35 +23,30 @@
  
 <h2>Training</h2>
 
-  - <a>TCM Security Academy</a>
-  - <a>udemy</a>
-  - <a>Web Security Academy</a>
+ - <a>"ExcodeTalker" on HackTheBox</a>
+ - <a>["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
+ - <a>TCM Security Academy</a>
+ - <a>["AccesscodeTalker" on TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [100+ Rooms]</a>
+ - <a>udemy</a>
+ - <a>Web Security Academy</a>
 
 <h2>Cybersecurity Projects</h2>
 
-  -
+ -
 
 <h2>Programming Projects</h2>
 
-  - 
+ - 
 
-<h2>Practice:</h2>
-
- - <b>Cybersecurity:</b>
-   - "ExcodeTalker" on HackTheBox
-   - ["AccesscodeTalker" on TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [100+ Rooms]
- - <b>Code:</b>
-   - ["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
-  
 <h2>Other Interests:</h2>
 
-- <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇭 🇵🇱 🇮🇳 🇷🇼</b>
-  - Complete fluency in spoken and written French, English, Spanish and Japanese
-  - Basic knowledge of German, Italian, Tagalog, Polish, Hindi and Kinyarwanda
-  - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san) [200k+ XP]
-- <b>Martial Arts</b>
-  - Black Belt in Shōrin-Ryū (少林流) Karate
-- <b>Gaming</b>
-  - ["KanpekiShugi" on Xbox](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
-  - ["KanpekiShugi" on Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
-  - "KanpekiShugi" on PlayStation [1100+ Platinum Trophies]
+ - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇭 🇵🇱 🇮🇳 🇷🇼</b>
+   - Complete fluency in spoken and written French, English, Spanish and Japanese
+   - Basic knowledge of German, Italian, Tagalog, Polish, Hindi and Kinyarwanda
+   - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san) [200k+ XP]
+ - <b>Martial Arts</b>
+   - Black Belt in Shōrin-Ryū (少林流) Karate
+ - <b>Gaming</b>
+   - ["KanpekiShugi" on Xbox](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
+   - ["KanpekiShugi" on Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
+   - "KanpekiShugi" on PlayStation [1100+ Platinum Trophies]
