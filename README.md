@@ -17,9 +17,17 @@
  - <a href="https://clg.qc.ca/programmes/sciences-humaines-avec-mathematiques/#apercu-1-tab">College Diploma in Human Sciences and Math at Collège Lionel Groulx</a>
  - <a href="https://externat.qc.ca/">High School Diploma at Externat Sacré-Coeur</a>
 
+<!-- 
 <h2>Certifications</h2>
 
  -
+ -->
+
+ <!-- 
+<h2>Experience</h2>
+
+ -
+ -->
  
 <h2>Training</h2>
 
