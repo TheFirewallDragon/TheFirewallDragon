@@ -34,7 +34,7 @@
  - <a>"ExcodeTalker" on HackTheBox</a>
  - <a>["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
  - <a>TCM Security Academy</a>
- - <a>["AccesscodeTalker" on TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [100+ Rooms](https://tryhackme.com/p/AccesscodeTalker)</a>
+ - <a>["AccesscodeTalker" on TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [100+ Rooms]</a>
  - <a>udemy</a>
  - <a>Web Security Academy</a>
 
