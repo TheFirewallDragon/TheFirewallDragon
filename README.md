@@ -38,13 +38,9 @@
  - <a>udemy</a>
  - <a>Web Security Academy</a>
 
-<h2>Cybersecurity Projects</h2>
+<h2>Projects</h2>
 
  -
-
-<h2>Programming Projects</h2>
-
- - 
 
 <h2>Other Interests:</h2>
 
