@@ -1,4 +1,4 @@
-<h1>Bonjour, Hello, Buenos Dias, 今日は, <br> Je m'appelle Guillaume! <br/><a href="https://github.com/guillaumethecoder/CybersecurityProjects">Cybersecurity Student</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
+<h1>Bonjour, Hello, Buenos Dias, 今日は, Cześć, <br> Je m'appelle Guillaume! <br/><a href="https://github.com/guillaumethecoder/CybersecurityProjects">Cybersecurity Student</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
 
 [<img alt="Guillaume Carrier Couture | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Guillaume Carrier Couture | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -49,8 +49,8 @@
 <h2>Other Interests:</h2>
 
  - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇭 🇵🇱 🇮🇳 🇷🇼</b>
-   - Complete fluency in spoken and written French, English, Spanish and Japanese
-   - Basic knowledge of German, Italian, Tagalog, Polish, Hindi and Kinyarwanda
+   - Complete fluency in spoken and written French, English, Spanish, Japanese and Polish
+   - Basic knowledge of German, Italian, Tagalog, Hindi and Kinyarwanda
    - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san) [200k+ XP]
  - <b>Martial Arts</b>
    - Black Belt in Shōrin-Ryū (少林流) Karate
