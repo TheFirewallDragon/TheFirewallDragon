@@ -6,7 +6,7 @@
 
 [linkedin]: https://ca.linkedin.com/in/guillaume-cc-b0b588252
 [instagram]: https://www.instagram.com/guillaume__2c/
-[twitter]: https://twitter.com/GiyoomuSan
+[twitter]: https://twitter.com/giyoomukun
 
 <h2>Education</h2>
 
