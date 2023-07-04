@@ -1,8 +1,8 @@
 <h1>Bonjour, Hello, Buenos Dias, 今日は, Cześć, <br> Je m'appelle Guillaume! <br/><a href="https://github.com/guillaumethecoder/CybersecurityProjects">Cybersecurity Student</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
 
-[<img alt="Guillaume Carrier Couture | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Guillaume Carrier Couture | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Guillaume Carrier Couture | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="Guillaume CC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Guillaume CC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Guillaume CC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://ca.linkedin.com/in/guillaume-cc-b0b588252
 [instagram]: https://www.instagram.com/guillaume__2c/
