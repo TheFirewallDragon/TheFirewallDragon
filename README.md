@@ -38,7 +38,7 @@
  - <a>udemy</a>
  - <a>Web Security Academy</a>
 
-<h2>Projects</h2>
+<h2>Personal Projects</h2>
 
  -
 
