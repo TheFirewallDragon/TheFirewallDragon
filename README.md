@@ -40,7 +40,7 @@
 
 <h2>Personal Projects</h2>
 
- - [100 Python Projects]
+ - <a>[100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)</a>
 
 <h2>Other Interests:</h2>
 
