@@ -35,7 +35,7 @@
  - <a>["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
  - <a>[TCM Security Academy](https://academy.tcm-sec.com/) (/15)</a>
  - <a>["AccesscodeTalker" on TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [150+ Rooms] [**Certificates**](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9/9)</a>
- - <a>udemy</a>
+ - <a>["Guillaume Carrier Couture" on udemy](https://www.udemy.com/user/guillaume-carrier-couture/) [**Certificates**] ()</a>
  - <a>Web Security Academy</a>
 
 <h2>Personal Projects</h2>
