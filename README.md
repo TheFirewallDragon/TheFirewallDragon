@@ -31,11 +31,11 @@
  
 <h2>Training</h2>
 
- - <a>["ExcodeTalker" on HackTheBox Labs](https://app.hackthebox.com/users/267436) [+ Machines/Challenges]</a>
- - <a>["FirewallDragon" on LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
+ - <a>["ExcodeTalker" on **HackTheBox Labs**](https://app.hackthebox.com/users/267436) [+ Machines/Challenges]</a>
+ - <a>["FirewallDragon" on **LeetCode**](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
  - <a>[TCM Security Academy](https://academy.tcm-sec.com/) (/15)</a>
- - <a>["AccesscodeTalker" on TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [150+ Rooms] [**Certificates**](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9/9)</a>
- - <a>["Guillaume Carrier Couture" on udemy](https://www.udemy.com/user/guillaume-carrier-couture/) [**Certificates**](https://github.com/TheFirewallDragon/udemy-Certificates) (3)</a>
+ - <a>["AccesscodeTalker" on **TryHackMe**](https://tryhackme.com/p/AccesscodeTalker) [150+ Rooms] [**Certificates**](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9/9)</a>
+ - <a>["Guillaume Carrier Couture" on **udemy**](https://www.udemy.com/user/guillaume-carrier-couture/) [**Certificates**](https://github.com/TheFirewallDragon/udemy-Certificates) (3)</a>
  - <a>Web Security Academy</a>
 
 <h2>Personal Projects</h2>
@@ -47,10 +47,10 @@
  - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹</b>
    - Complete fluency in spoken and written French, English, Spanish and Japanese
    - Basic knowledge of German and Italian
-   - ["guillaume-san" on Duolingo](https://www.duolingo.com/profile/guillaume-san) [250k+ XP]
+   - ["guillaume-san" on **Duolingo**](https://www.duolingo.com/profile/guillaume-san) [250k+ XP]
  - <b>Martial Arts</b>
    - Black Belt in Shōrin-Ryū (少林流) Karate
  - <b>Gaming</b>
-   - "KanpekiShugi" on PlayStation [1100+ Platinum Trophies]
-   - ["KanpekiShugi" on Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
-   - ["KanpekiShugi" on Xbox](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
+   - "KanpekiShugi" on **PlayStation** [1100+ Platinum Trophies]
+   - ["KanpekiShugi" on **Steam**](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
+   - ["KanpekiShugi" on **Xbox**](https://account.xbox.com/Profile?Gamertag=KanpekiShugi) [100k+ Gamerscore]
