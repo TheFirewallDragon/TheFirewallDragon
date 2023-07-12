@@ -31,13 +31,13 @@
  
 <h2>Training</h2>
 
- - <a>["DecodeTalker" on **HackTheBox Academy**](https://academy.hackthebox.com/) <!--[*Certificates*](https://github.com/TheFirewallDragon/HTBAcademy-Certificates)--></a>
+ - <a>[**HackTheBox Academy**](https://academy.hackthebox.com/) <!--[*Certificates*](https://github.com/TheFirewallDragon/HTBAcademy-Certificates)--></a>
  - <a>["ExcodeTalker" on **HackTheBox Labs**](https://app.hackthebox.com/users/1541118) <!--[+ Machines/Challenges]--></a>
  - <a>["FirewallDragon" on **LeetCode**](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
  - <a>[TCM Security Academy](https://academy.tcm-sec.com/) (/15)</a>
  - <a>["AccesscodeTalker" on **TryHackMe**](https://tryhackme.com/p/AccesscodeTalker) [150+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9/9)</a>
  - <a>["Guillaume Carrier Couture" on **udemy**](https://www.udemy.com/user/guillaume-carrier-couture/) [4 Courses] [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (7)</a>
- - <a>Web Security Academy</a>
+ - <a>[**Web Security Academy**](https://portswigger.net/web-security)</a>
 
 <h2>Personal Projects</h2>
 
