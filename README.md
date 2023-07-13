@@ -1,4 +1,4 @@
-<h1>Bonjour, Hello, Buenos Dias, 今日は, 안녕하세요,<br> Je m'appelle Guillaume! <br/><a href="https://github.com/guillaumethecoder/CybersecurityProjects">Cybersecurity Student</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
+<h1>Bonjour, Hello, Buenos Dias, 今日は, 안녕하세요,<br> Je m'appelle Guillaume! <br/><a>Cybersecurity Student</a>, <a>Programmer</a></h1>
 
 [<img alt="Guillaume CC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Guillaume CC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
