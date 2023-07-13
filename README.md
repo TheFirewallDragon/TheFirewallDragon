@@ -4,7 +4,7 @@
 [<img align="left" alt="Guillaume CC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Guillaume CC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://ca.linkedin.com/in/guillaume-cc-b0b588252
+[linkedin]: https://www.linkedin.com/in/guillaume-carrier-couture-b0b588252/
 [instagram]: https://www.instagram.com/guillaume__2c/
 [twitter]: https://twitter.com/giyoomukun
 
